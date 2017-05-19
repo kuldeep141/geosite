@@ -1,2 +1,3 @@
 # geosite
-nothing just hello world
+this is just a basic project to learn how to start in GitHUB.
+
